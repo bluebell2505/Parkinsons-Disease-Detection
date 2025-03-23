@@ -1,2 +1,2 @@
-# drug-discovery-MLOps
+# drug-discovery-Assistant
  
