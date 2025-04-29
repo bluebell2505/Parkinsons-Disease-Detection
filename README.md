@@ -1,1 +1,1 @@
-# Drug-Discovery-Assistant
+.
